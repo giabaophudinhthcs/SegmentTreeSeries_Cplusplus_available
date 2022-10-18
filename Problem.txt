@@ -1,0 +1,14 @@
+Warning: The language of the problem using is Vietnamese.
+The problem from oj.vnoi.info - the website of Vietnam's Olympiad in Informatics Club (VNOI)
+Problem:
+1) ITEZ1: https://oj.vnoi.info/problem/segtree_itez1 (didn't have code)
+2) ITEZ2: https://oj.vnoi.info/problem/segtree_itez2 (didn't have code)
+3) ITLAZY: https://oj.vnoi.info/problem/segtree_itlazy (didn't have code)
+4) ITMED: https://oj.vnoi.info/problem/segtree_itmed (didn't have code)
+5) ITDS1: https://oj.vnoi.info/problem/segtree_itds1 (didn't have code)
+6) ITDS2: https://oj.vnoi.info/problem/segtree_itds2 (didn't have code)
+7) ITLADDER: https://oj.vnoi.info/problem/segtree_itladder (didn't have code)
+8) ITMIX: https://oj.vnoi.info/problem/segtree_itmix (didn't have code)
+9) ITSTR: https://oj.vnoi.info/problem/segtree_itstr (didn't have code)
+10) ITTEQ1: https://oj.vnoi.info/problem/segtree_itteq1 (didn't have code)
+11) ITX2: https://oj.vnoi.info/problem/segtree_itx2 (didn't have code)
