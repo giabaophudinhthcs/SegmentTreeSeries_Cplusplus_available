@@ -5,7 +5,7 @@ Problem:
 2) ITEZ2: https://oj.vnoi.info/problem/segtree_itez2 (had code - available)
 3) ITLAZY: https://oj.vnoi.info/problem/segtree_itlazy (had code - available)
 4) ITMED: https://oj.vnoi.info/problem/segtree_itmed (didn't have code)
-5) ITDS1: https://oj.vnoi.info/problem/segtree_itds1 (didn't have code)
+5) ITDS1: https://oj.vnoi.info/problem/segtree_itds1 (had code - get wrong answer)
 6) ITDS2: https://oj.vnoi.info/problem/segtree_itds2 (didn't have code)
 7) ITLADDER: https://oj.vnoi.info/problem/segtree_itladder (didn't have code)
 8) ITMIX: https://oj.vnoi.info/problem/segtree_itmix (didn't have code)
