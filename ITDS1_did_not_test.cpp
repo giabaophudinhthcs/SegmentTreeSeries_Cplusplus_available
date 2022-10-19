@@ -14,7 +14,7 @@ int get(int sl, int sr, int si, int l, int r, int k) {
     if (sl > r || sr < l) return oo; 
     if (sl >= l && sr <= r) {
         auto it = tree[si].lower_bound(k);
-        if (it == tree[si].end()) return oo;
+        if (*it < k) return oo;
         return *it;
     }
 
