@@ -1,6 +1,6 @@
 Warning: The language of the problem using is Vietnamese.
 The problem from oj.vnoi.info - the website of Vietnam's Olympiad in Informatics Club (VNOI)
-Problem:
+Problem: (From Educational Segment Tree Contest)
 1) ITEZ1: https://oj.vnoi.info/problem/segtree_itez1 (had code - available)
 2) ITEZ2: https://oj.vnoi.info/problem/segtree_itez2 (had code - available)
 3) ITLAZY: https://oj.vnoi.info/problem/segtree_itlazy (had code - available)
@@ -12,3 +12,6 @@ Problem:
 9) ITSTR: https://oj.vnoi.info/problem/segtree_itstr (didn't have code)
 10) ITTEQ1: https://oj.vnoi.info/problem/segtree_itteq1 (didn't have code)
 11) ITX2: https://oj.vnoi.info/problem/segtree_itx2 (didn't have code)
+
+Problem: (Not from Educational Segment Tree Contest)
+12) EASYQUERY: https://oj.vnoi.info/problem/bedao_g11_easyquery (had code - available)
