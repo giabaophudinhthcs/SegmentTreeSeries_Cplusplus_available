@@ -15,3 +15,4 @@ Problem: (From Educational Segment Tree Contest)
 
 Problem: (Not from Educational Segment Tree Contest)
 12) EASYQUERY: https://oj.vnoi.info/problem/bedao_g11_easyquery (had code - available)
+13) QMAX: https://oj.vnoi.info/problem/qmax (had code - available)
