@@ -1,3 +1,5 @@
+// Link: https://oj.vnoi.info/problem/segtree_itez2
+
 #include <bits/stdc++.h>
 
 using namespace std;
