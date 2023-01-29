@@ -1,4 +1,5 @@
 // Segment Tree using Lazy Propagation
+// Link: https://oj.vnoi.info/problem/segtree_itlazy
 
 #include <bits/stdc++.h>
 
