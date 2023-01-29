@@ -1,3 +1,5 @@
+// Link: https://oj.vnoi.info/problem/qmax
+
 #include <bits/stdc++.h>
 
 using namespace std;
