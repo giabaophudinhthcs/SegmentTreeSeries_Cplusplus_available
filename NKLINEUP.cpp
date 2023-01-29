@@ -1,3 +1,5 @@
+// Link: https://oj.vnoi.info/problem/nklineup
+
 #include <bits/stdc++.h>
 
 using namespace std;
