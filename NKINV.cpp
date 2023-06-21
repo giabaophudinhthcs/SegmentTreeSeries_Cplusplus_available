@@ -4,10 +4,11 @@
 
 using namespace std;
 
-const int nMax = 3e5;
-const int m = 60000;
+const int nMax = 1e6;
+const int m = 1e5;
 
-int n, a[nMax], node[nMax], ans = 0;
+int n, a[nMax], node[nMax];
+long long ans = 0LL;
 
 void update(int si, int sl, int sr, int val){
     if (sr < val || val < sl) return;
