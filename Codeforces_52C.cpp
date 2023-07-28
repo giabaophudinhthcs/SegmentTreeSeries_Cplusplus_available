@@ -1,3 +1,5 @@
+// Link: https://codeforces.com/contest/52/problem/C
+
 #include <bits/stdc++.h>
 
 #define FOR(i, a, b) for(int i = a; i <= b ; ++i)
